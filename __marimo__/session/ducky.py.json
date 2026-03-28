@@ -1,0 +1,22 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.21.1",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "21451f15ff95a7b42fa286aa4b2bec36",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='Hbol-0' random-id='3ade07fc-a7fe-c20c-47ec-7a7e0c0f01c4'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;_marimo_row_id&#92;&quot;:0,&#92;&quot;day&#92;&quot;:&#92;&quot;2024-01-20 00:00:00&#92;&quot;,&#92;&quot;total_trips&#92;&quot;:108768,&#92;&quot;avg_distance&#92;&quot;:3.54,&#92;&quot;avg_fare&#92;&quot;:24.06},{&#92;&quot;_marimo_row_id&#92;&quot;:1,&#92;&quot;day&#92;&quot;:&#92;&quot;2024-02-03 00:00:00&#92;&quot;,&#92;&quot;total_trips&#92;&quot;:110603,&#92;&quot;avg_distance&#92;&quot;:2.76,&#92;&quot;avg_fare&#92;&quot;:24.12},{&#92;&quot;_marimo_row_id&#92;&quot;:2,&#92;&quot;day&#92;&quot;:&#92;&quot;2024-03-09 00:00:00&#92;&quot;,&#92;&quot;total_trips&#92;&quot;:140493,&#92;&quot;avg_distance&#92;&quot;:3.49,&#92;&quot;avg_fare&#92;&quot;:24.39},{&#92;&quot;_marimo_row_id&#92;&quot;:3,&#92;&quot;day&#92;&quot;:&#92;&quot;2024-02-17 00:00:00&#92;&quot;,&#92;&quot;total_trips&#92;&quot;:105811,&#92;&quot;avg_distance&#92;&quot;:3.74,&#92;&quot;avg_fare&#92;&quot;:24.48},{&#92;&quot;_marimo_row_id&#92;&quot;:4,&#92;&quot;day&#92;&quot;:&#92;&quot;2024-01-27 00:00:00&#92;&quot;,&#92;&quot;total_trips&#92;&quot;:110515,&#92;&quot;avg_distance&#92;&quot;:2.82,&#92;&quot;avg_fare&#92;&quot;:24.54},{&#92;&quot;_marimo_row_id&#92;&quot;:5,&#92;&quot;day&#92;&quot;:&#92;&quot;2024-02-24 00:00:00&#92;&quot;,&#92;&quot;total_trips&#92;&quot;:117831,&#92;&quot;avg_distance&#92;&quot;:2.92,&#92;&quot;avg_fare&#92;&quot;:24.68},{&#92;&quot;_marimo_row_id&#92;&quot;:6,&#92;&quot;day&#92;&quot;:&#92;&quot;2024-03-23 00:00:00&#92;&quot;,&#92;&quot;total_trips&#92;&quot;:121966,&#92;&quot;avg_distance&#92;&quot;:5.51,&#92;&quot;avg_fare&#92;&quot;:24.74},{&#92;&quot;_marimo_row_id&#92;&quot;:7,&#92;&quot;day&#92;&quot;:&#92;&quot;2024-02-13 00:00:00&#92;&quot;,&#92;&quot;total_trips&#92;&quot;:69067,&#92;&quot;avg_distance&#92;&quot;:3.06,&#92;&quot;avg_fare&#92;&quot;:24.76},{&#92;&quot;_marimo_row_id&#92;&quot;:8,&#92;&quot;day&#92;&quot;:&#92;&quot;2024-03-02 00:00:00&#92;&quot;,&#92;&quot;total_trips&#92;&quot;:122463,&#92;&quot;avg_distance&#92;&quot;:3.92,&#92;&quot;avg_fare&#92;&quot;:24.8},{&#92;&quot;_marimo_row_id&#92;&quot;:9,&#92;&quot;day&#92;&quot;:&#92;&quot;2024-02-10 00:00:00&#92;&quot;,&#92;&quot;total_trips&#92;&quot;:111655,&#92;&quot;avg_distance&#92;&quot;:4.96,&#92;&quot;avg_fare&#92;&quot;:24.81}]&quot;' data-total-rows='92' data-total-columns='4' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='true' data-page-size='10' data-field-types='[[&quot;day&quot;,[&quot;datetime&quot;,&quot;datetime64[us]&quot;]],[&quot;total_trips&quot;,[&quot;integer&quot;,&quot;int64&quot;]],[&quot;avg_distance&quot;,[&quot;number&quot;,&quot;float64&quot;]],[&quot;avg_fare&quot;,[&quot;number&quot;,&quot;float64&quot;]]]' data-selection='&quot;multi&quot;' data-show-filters='true' data-show-download='true' data-show-column-summaries='true' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-has-stable-row-id='true' data-lazy='false' data-preload='false' data-download-file-name='&quot;result_df&quot;'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}
